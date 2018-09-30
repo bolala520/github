@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e54adc8-f9d4-4281-9aa0-23aaa51b345e" name="默认的" comment="index" />
+    <list default="true" id="0e54adc8-f9d4-4281-9aa0-23aaa51b345e" name="默认的" comment="index">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
     <list id="641f5fa4-6983-495e-965e-fd417d10de86" name="提交失败:默认的" comment="index" />
     <ignored path="github.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.56407183">
-              <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+            <state vertical-scroll-proportion="0.6263473">
+              <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
               <folding>
                 <element signature="n#script#2;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -346,8 +348,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56407183">
-          <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+        <state vertical-scroll-proportion="0.6263473">
+          <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
           <folding>
             <element signature="n#script#2;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
